@@ -20,6 +20,7 @@ for key, value in selangwaktu[pilihan-1].items():
 bungaperiode = saldopokok*sukubunga
 saldoperiode = saldopokok+bungaperiode
 print("Jumlah Bunga per Periode: \n", bungaperiode, "Jumlah Saldo per Periode: ", saldoperiode)
+#revisi lagi
 
 
 
